@@ -1,0 +1,5 @@
+a.out
+*.exe
+.vscode
+*temp*
+*test*
